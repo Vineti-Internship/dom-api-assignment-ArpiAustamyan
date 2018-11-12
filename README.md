@@ -21,6 +21,11 @@
 
 __There are two possible grades for this assignment: P and F (Pass, Fail)__
 
-## Grade: __To Be Added__
+## Grade: P
+
+## Feedback
+- `if(stop===true)` could've been written as `if(stop)`
+- Please Follow a consistent code style
+    - [For Reference](https://github.com/airbnb/javascript)
 
 \* DO NOT CHANGE THIS DOCUMENT, the reviewer will check the homework and add the grade
